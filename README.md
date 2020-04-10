@@ -31,7 +31,7 @@ Esta é a interface:
         |  [0]  | Sair                                          |
         ---------------------------------------------------------
         
-* Suponhamos que voce tenha selecionado a opção 7, (de enter)
+* Suponhamos que voce tenha selecionado a opção 7.
 * Na proxima etapa voce devera digitar o codigo do pais do numero que voce quer gerar: 55 (se voce quiser numeros com codigos  do Brasil).
 * Depois o DDD do estado: 46 (se voce quiser gerar numeros com codigo do Parana).
 * Em seguida o codigo da operadora desejada (999, 888...).
