@@ -3,12 +3,12 @@
 Gerador de numeros de telefones
 
 Este programa ira gerar listas de numeros de telefones aleatorios, tendo opções de formatações como numero da operadora, prefixo, numero da operadora com prefixo e etc, também é possivel dar um nome/caminho a o arquivo que sera gerado.
-
-**Requerimentos**
+***
+### Requerimentos
 
 * Versão do python 3 ou superior
-
-**Modo de usar**
+***
+### Modo de usar
 
 Quando o script for iniciado aparecera uma interface (no terminal) com uma tabela, essa tabela contem as opções de formatos de numeros que vão do 1 ao 8, tudo o que voce tera que fazer é selecionar o formato de numero de telefone e dependendo da opção selecionada voce tera que configurar o pais, DDD e Operadora.
 
@@ -54,8 +54,5 @@ Depois que o programa terminar de gerar todas as combinações aparecera uma men
 Simples né? :)
 
 (**obs:** Os formatos de numeros numeros de telefone que são gerados são pre-configurados para o formato brasileiro, portanto qualquer alteração podera ser feita no script. ;) )
-
-**Acompanhe meus outros projetos em**
-
-Github https://github.com/gustavocastag
-
+***
+### Acompanhe meus outros projetos em [GitHub](https://github.com/gustavocastag)
