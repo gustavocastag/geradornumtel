@@ -55,4 +55,4 @@ Simples né? :)
 
 (**obs:** Os formatos de numeros numeros de telefone que são gerados são pre-configurados para o formato brasileiro, portanto qualquer alteração podera ser feita no script. ;) )
 ***
-### Acompanhe meus outros projetos em [GitHub](https://github.com/gustavocastag)
+### Acompanhe meus outros projetos no [GitHub](https://github.com/gustavocastag)
